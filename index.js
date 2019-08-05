@@ -1,0 +1,10 @@
+console.log(hello)
+console.log(hello)
+
+console.log(hello2)
+console.log(hello)
+console.log(hell3o)
+console.log(hello4)
+console.log(hello5)
+console.log(hello6)
+console.log(hello)
